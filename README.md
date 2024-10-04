@@ -1,6 +1,6 @@
 # Zomato-Restaurant-Analysis
 
-assets/img/1698049546840.jpg
+<!-- assets/img/1698049546840.jpg -->
 
 ## Description:
 Zomato is a company that provides a platform for restaurant search and discovery through its app and website, offering detailed information about various dining options. In this project, we are examining the Zomato Restaurant dataset to gain deeper insights into the restaurant industry in Bangalore. The analysis involves loading and cleaning the data, visualizing relationships between features, and building predictive models.
