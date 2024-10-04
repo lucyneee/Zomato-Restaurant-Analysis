@@ -14,9 +14,7 @@ The Dataset is from https://www.kaggle.com/datasets/himanshupoddar/zomato-bangal
 - Dropping duplicates.
 - Cleaning individual columns.
 
-3. **Data Visualization:**
-
-  Utilize various plots to explore relationships between different features within the dataset, providing visual insights into the data.
+3. **Data Visualization:** Utilize various plots to explore relationships between different features within the dataset, providing visual insights into the data.
 
 5. **Build a Model:** 
 - Develop and evaluate multiple regression models that best fit the dataset, including Linear Regression, CatBoost Regression, Random Forest Regression, and Decision Tree Regression.
