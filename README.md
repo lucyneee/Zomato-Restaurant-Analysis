@@ -15,6 +15,7 @@ The Dataset is from https://www.kaggle.com/datasets/himanshupoddar/zomato-bangal
 - Cleaning individual columns.
 
 3. **Data Visualization:**
+
 Utilize various plots to explore relationships between different features within the dataset, providing visual insights into the data.
 
 5. **Build a Model:** 
